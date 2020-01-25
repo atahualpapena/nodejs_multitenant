@@ -1,4 +1,4 @@
-### NodeJs Multitenant example
+### NodeJs multitenant example
 
 This nodejs app implements a multi tenant architecture. This is for learning purposes.
 
